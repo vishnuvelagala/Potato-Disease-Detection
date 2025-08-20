@@ -1,61 +1,15 @@
-# Welcome to your Lovable project
+# 🥔 Potato Disease Detection  
 
-## Project info
+A full-stack application that detects potato leaf diseases using **YOLOv8** and provides real-time results via **FastAPI backend** and **React frontend**.  
 
-**URL**: https://lovable.dev/projects/a3a9e261-9e77-4a76-ae81-9dff121a75a4
+## 🚀 Features  
+- 📸 Upload or capture potato leaf images for disease detection.  
+- 🧠 YOLOv8 model integrated into backend for accurate classification.  
+- ⚙️ REST APIs built with **FastAPI** for predictions, user auth, and history management.  
+- 🗄️ **MySQL** database to store user data, prediction history, and disease info.  
+- 🌐 **React + Vite + Tailwind** frontend for a responsive web UI.  
+- 📱 Planned support for **React Native** mobile app with real-time camera detection.  
 
-## How can I edit this code?
 
-There are several ways of editing your application.
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/a3a9e261-9e77-4a76-ae81-9dff121a75a4) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with.
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+<img width="1919" height="1016" alt="Screenshot 2025-08-20 195420" src="https://github.com/user-attachments/assets/9ac96146-79b1-4c85-833b-c7996a1177b6" />
